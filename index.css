@@ -49,4 +49,16 @@ html, body {
     background: #000;
 }
 
-#form
+#form_header {
+    display: inline-block;
+    font-size: 15px;
+    font-family: Bowlby One SC;
+    font-weight: 900;
+    text-transform: uppercase;
+    Letter-spacing: 1px;
+
+
+    background: -webkit-linear-gradient(25deg, #FFBE0B, #FB5607, #FF006E, #8338EC, #3A86FF);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+}
